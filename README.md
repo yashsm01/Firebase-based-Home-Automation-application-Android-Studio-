@@ -1,7 +1,9 @@
 # Firebase-based-Home-Automation-application-Android-Studio-
 Through this home automation application we can access our appliances with one click where internet or Wi-Fi feasibility available.
 
-![bulb](https://user-images.githubusercontent.com/64914825/82137559-06a01880-9837-11ea-8638-c8fbb74a84fa.gif)
+![bulb](https://user-images.githubusercontent.com/64914825/82137559-06a01880-9837-11ea-8638-c8fbb74a84fa.gif) 
+![color](https://user-images.githubusercontent.com/64914825/82137601-47982d00-9837-11ea-8479-264e9e1944e2.gif)
+
 
 for regisreation with use of firebase:-
 cheak out  my last reposetory 
