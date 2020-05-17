@@ -5,6 +5,10 @@ for regisreation with use of firebase:-
 cheak out  my last reposetory 
 
     https://github.com/yashsm01/google-cloud-Firebase---user-registration-.git
+    
+creat firebase id:- 
+
+     android studio > Tools > Firebase > Authentication > create your project.
 
 1.Add menifest for Internet
 
